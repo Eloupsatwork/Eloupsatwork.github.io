@@ -115,16 +115,13 @@ footer ul li a{
     color: black;
 }
 
-.parcours{
-    background-color: rgb(0, 0, 0, 0);
-    width: 100%;
-    padding-right: 25px;
-    padding-left: 25px;
-    background-color: lightblue;
+.projet img{
+    width: 250px;
+    height: 250px;
 }
 
-.parcours .parcoursD{
-    text-align: right;
+.projet .ubi{
+    width: 400px;
 }
 
 p{
