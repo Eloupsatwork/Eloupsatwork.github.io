@@ -1,0 +1,7 @@
+footer a .btn{
+    background-color: black;
+}
+
+footer a:hover{
+    background-color: grey;
+}
